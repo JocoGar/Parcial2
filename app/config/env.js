@@ -1,5 +1,5 @@
 const env={
-    host: 'dpg-crq2120gph6c73a5t1k0-a.oregon-postgres.render.com',
+    host: 'dpg-crq2120gph6c73a5t1k0-a',
     port: 5432,
     username: 'dbparcial_10867_user',
     password: '19H16uC6HcTdaaDvOw8KdUcZH3LPawFn',
