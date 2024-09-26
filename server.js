@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const db = require('./app/config/db.config.js');
-const sneakerRouter = require('./app/routers/sneaker.router.js');
+const sneakerRouter = require('./app/routers/router.js');
 
 const app = express();
 
